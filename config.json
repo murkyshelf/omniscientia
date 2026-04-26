@@ -1,0 +1,4 @@
+{
+  "ollama_base": "http://localhost:11434",
+  "model_name": "deepseek-r1:7b"
+}
